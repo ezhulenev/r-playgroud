@@ -1,0 +1,1 @@
+college <- read.csv("data/College.csv")
